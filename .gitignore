@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Rust
+/target/
+/Cargo.lock
+
+# Dataset & DB
+*.csv
+*.db
+*.sqlite
+*.parquet
+
+# WASM builds
+*.wasm
+pkg/
+
+# Others
+.DS_Store
+.env
