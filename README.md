@@ -163,9 +163,6 @@ Testes realizados com datasets reais demonstraram:
 - 🌐 **Alta portabilidade (Web, Backend ou Edge)**
 
 ---
-Aqui está a versão traduzida para inglês do seu README, mantendo toda a estrutura, clareza e boas práticas de documentação:
-
----
 
 English version:
 
